@@ -1,0 +1,9 @@
+# Ignore compiled objects
+*.class
+
+# Ignore current saved games
+savedGames/
+
+# Ignore replit files
+.replit
+*.nix
